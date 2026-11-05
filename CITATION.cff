@@ -17,7 +17,7 @@ keywords:
   - single-cell RNA sequencing
   - scDRS
   - MAGMA
-repository-code: "https://github.com/<your-account>/jtm-preeclampsia-code"
+repository-code: "https://github.com/qxw-AS/jtm-preeclampsia-code"
 abstract: >-
   Analysis code for a study integrating placental cis-eQTL Mendelian randomisation,
   Bayesian colocalisation and placental single-cell profiling in preeclampsia.
