@@ -4,6 +4,7 @@ Analysis code for:
 
 > **Placental genetic risk mapping associates ERAP2 and TK2 with non-trophoblast cell states and interface remodelling in preeclampsia**
 > Xiaowei Qiu, Department of Obstetrics and Gynecology, Nanfang Hospital, Southern Medical University, Guangzhou, China
+> ORCID: [0009-0003-8966-8073](https://orcid.org/0009-0003-8966-8073)
 
 The repository reproduces the primary numbers of the manuscript: the instrument
 and harmonisation cascade (1,981 lead variants / 1,868 *cis*-eGenes → 1,371 genes
