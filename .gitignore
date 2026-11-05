@@ -1,0 +1,25 @@
+# data and intermediates are never committed
+data/
+results/
+work/
+tables/
+
+*.h5ad
+*.h5
+*.mtx
+*.mtx.gz
+*.gz
+*.vcf
+*.bed
+*.bim
+*.fam
+*.rds
+*.pkl
+*.log
+*.partial.csv
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.venv/

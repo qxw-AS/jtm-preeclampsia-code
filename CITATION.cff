@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this repository."
+title: "jtm-preeclampsia-code: placental cis-eQTL Mendelian randomisation, colocalisation and single-cell analysis of preeclampsia"
+type: software
+authors:
+  - family-names: Qiu
+    given-names: Xiaowei
+    affiliation: "Southern Medical University, Guangzhou, China"
+    email: qxw24657@163.com
+year: 2026
+license: MIT
+keywords:
+  - preeclampsia
+  - Mendelian randomisation
+  - colocalisation
+  - placental eQTL
+  - single-cell RNA sequencing
+  - scDRS
+  - MAGMA
+repository-code: "https://github.com/<your-account>/jtm-preeclampsia-code"
+abstract: >-
+  Analysis code for a study integrating placental cis-eQTL Mendelian randomisation,
+  Bayesian colocalisation and placental single-cell profiling in preeclampsia.
+  The pipeline covers instrument construction from SuSiE credible sets, allele
+  harmonisation against two preeclampsia GWAS, Wald/IVW estimation, random-effects
+  meta-analysis with an overlap correction, colocalisation grading, MAGMA gene and
+  gene-set analysis, scDRS compartment scoring, and an MR-PheWAS across FinnGen R12
+  endpoints.
